@@ -1,3 +1,10 @@
+# ORIGINALLY THOUGHT OF MAKING A DEKSTOP APP 
+# BUT THAT WOULD CAUSE THE ISSUE OF DISTRIBUTING OUR TOOL 
+# SO FOR NOW WE ARE GOING FOR A WEBAPP
+
+
+
+
 import os
 import cv2
 import json
@@ -98,3 +105,4 @@ def status(job_id):
 
 if __name__ == "__main__":
     app.run(debug=True, port=5000)
+
