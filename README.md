@@ -25,6 +25,19 @@ https://github.com/sabby13/VideoFrameSelector
 
 
 
+## 2. Priority Algorithm 
+look for in the folder 
+inx.py 
+
+well it does work perfectly
+we are able to select the frames with the MAX change.
+
+
+
+
+
+## 3. Codec 
+
 
 
 
