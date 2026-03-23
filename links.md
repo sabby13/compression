@@ -10,8 +10,20 @@ https://www.reddit.com/r/AV1/comments/16xo5om/deep_render_says_its_ai_video_comp
 encoding:
 https://superagi.com/how-ai-is-transforming-video-encoding-and-compression-for-seamless-live-streams/
 
-methadology:
-file:///C:/Users/sahib/Downloads/A_survey_of_learning-based_end-to-end_video_compre.pdf
+
+
+codec:
+learining what a codec is:
+https://youtu.be/LxHwSZTVjQM?si=wOfuncb32DTVpU0Y
+
+
+kinda building your own codec:
+https://youtu.be/cgFCS9t41vU?si=fxrMjQr8Sj2LcO0K
+
+
+
+research papers:
+https://openaccess.thecvf.com/content/CVPR2024/papers/Ge_Task-Aware_Encoder_Control_for_Deep_Video_Compression_CVPR_2024_paper.pdf
 
 https://openaccess.thecvf.com/content/CVPR2025/papers/Zhang_FLAVC_Learned_Video_Compression_with_Feature_Level_Attention_CVPR_2025_paper.pdf
 https://openaccess.thecvf.com/content/CVPR2025/html/Jia_Towards_Practical_Real-Time_Neural_Video_Compression_CVPR_2025_paper.html?utm_source=chatgpt.com
