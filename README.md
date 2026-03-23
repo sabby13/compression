@@ -43,7 +43,7 @@ we are able to select the frames with the MAX change.
 
 
 
-## 3. Codec 
+## 3. Codec/ Vector Embedding file  
 
 
 
